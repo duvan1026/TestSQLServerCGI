@@ -1,3 +1,5 @@
+USE TestSqlServer;
+
 SELECT
   MP.NUMPEDIDO,
   CP.CLIE,
